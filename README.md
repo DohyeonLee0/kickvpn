@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DohyeonLee0/kickvpn/main/assets/banner.png" alt="KickVPN Banner" width="100%">
+</p>
 # KickVPN
 
 > 🧠 This VPN project was co-developed with **ChatGPT**, used as an assistant for system design, backend logic, networking, and full-stack coding.
@@ -61,7 +64,3 @@ Go to [https://whatismyipaddress.com](https://whatismyipaddress.com) to check IP
 - Designed for educational and prototyping use, not production-ready yet.
 
 ---
-
-## 📜 License
-
-MIT (Customize as needed)
