@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DohyeonLee0/kickvpn/main/assets/banner.png" alt="KickVPN Banner" width="100%">
+  <img src="https://github.com/DohyeonLee0/kickvpn/blob/main/assets/kickvpn-banner.png?raw=true" alt="KickVPN Banner" width="100%">
 </p>
+
 # KickVPN
 
 > 🧠 This VPN project was co-developed with **ChatGPT**, used as an assistant for system design, backend logic, networking, and full-stack coding.
